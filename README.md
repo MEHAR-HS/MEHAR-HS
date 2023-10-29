@@ -1,5 +1,4 @@
-[![Banner](https://your-image-hosting-link.com/your-banner-image.jpg)](https://gifer.com/en/GYny)
-
+[![Banner](https://your-image-hosting-link.com/your-banner-image.jpg)]
 
 <h1 align="center">Hi 👋, I'm MEHAR HAMZA</h1>
 <h3 align="center">A passionate Termux developer from PAKISTAN</h3>
