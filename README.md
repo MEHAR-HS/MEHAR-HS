@@ -2,8 +2,6 @@
 
 ![my-dress-up-darling-anime-happy](https://user-images.githubusercontent.com/88397313/224462663-6b5e62a4-0427-4a10-b1df-c19e0860afe6.gif)
 
-[![Banner](https://your-image-hosting-link.com/your-banner-image.jpg)]
-
 <h1 align="center">Hi 👋, I'm MEHAR HAMZA</h1>
 <h3 align="center">A passionate Termux developer from PAKISTAN</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehar-sh&label=Profile%20views&color=0e75b6&style=flat" alt="mehar-sh" /> </p>
